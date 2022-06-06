@@ -19,7 +19,7 @@
 
     <div class="grid grid-cols-12 space-y-5">
         <div class="col-span-12">
-            <div class="bg-[rgb(16,30,60)] rounded-lg shadow-xl shadow-gray-900">
+            <div class="bg-[rgb(16,30,60)] rounded-l shadow-xl shadow-gray-900">
                 <div class="flex justify-center items-center">
                     <img  src="{{ asset('img/logo.png') }}" alt="">
                 </div>
