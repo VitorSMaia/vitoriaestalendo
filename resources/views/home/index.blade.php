@@ -21,14 +21,14 @@
         <div class="col-span-12">
             <div class="bg-[rgb(16,30,60)] rounded-lg shadow-xl shadow-gray-900">
                 <div class="flex justify-center items-center">
-                    <img  src="{{ asset('storage/img/logo.png') }}" alt="">
+                    <img  src="{{ asset('img/logo.png') }}" alt="">
                 </div>
                 
             </div>
         </div>
         <div class="col-span-12 md:col-span-3">
             <div class="flex justify-center items-center">
-                <img class="shadow-xl shadow-gray-900" src="{{ asset('storage/img/person.png') }}" class="rounded-lg"  alt="">
+                <img class="shadow-xl shadow-gray-900" src="{{ asset('img/person.png') }}" class="rounded-lg"  alt="">
             </div>
         </div>
         <div class="col-span-12 md:col-span-9">
